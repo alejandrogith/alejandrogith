@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Gonzalez</h1>
-<h3 align="center">Soy un ingeniero desarrollador de software enfocado en aplicaciones web backend y gestión de bases de datos. Me encanta lo que hago y compartir lo que sé con los demás de la misma forma. Adaptable a trabajar en equipo y también de forma autodidacta. Mi objetivo es resolver problemas en proyectos para crear soluciones efectivas de alto impacto. Tengo experiencia en aplicaciones web backend creando API REST, MVC y implementando buenas prácticas como los Principios SOLID.</h3>
+<h3 align="center">I am a software developer engineer focused on backend web applications and database management. I love what I do and share what I know with others in the same way. Adaptable to teamwork and also self-taught. My goal is to solve problems in projects to create effective solutions with high impact. I have experience in backend web applications creating REST APIs, MVC and implementing good practices such as SOLID Principles.</h3>
 
 - 👨‍💻 All of my projects are available at [portfolio.com](portfolio.com)
 
